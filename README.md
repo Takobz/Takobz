@@ -1,4 +1,10 @@
 ## Hi there 👋
+Hello There! I am a backend developer who mostly works with C# and .NET.
+I love Star Wars (The Empire Strikes Back is the best Star Wars movie ever!), I also love MUSIC 👯
+
+### Some Links.
+- My [Blog website](https://letspretend.netlify.app/blog/) (that I very rarely update)
+- My [Spotify Profile](https://open.spotify.com/user/gznyv6bi9bnso8my49err2zul)
 
 <!--
 **Takobz/Takobz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
