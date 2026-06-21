@@ -5,6 +5,7 @@ I love Star Wars (The Empire Strikes Back is the best Star Wars movie ever!), I 
 ### Some Links.
 - My [Blog website](https://letspretend.netlify.app/blog/) (that I very rarely update)
 - My [Spotify Profile](https://open.spotify.com/user/gznyv6bi9bnso8my49err2zul)
+- My [Music Blog](https://what-in-da-music.netlify.app/blog) (That I will rarely update)
 
 <!--
 **Takobz/Takobz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
